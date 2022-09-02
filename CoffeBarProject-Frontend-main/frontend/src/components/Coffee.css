@@ -1,0 +1,16 @@
+div.reviewsText {
+    width: 100%;
+}
+
+div.poster {
+    margin: 10px;
+}
+
+p.review {
+    color: white;
+    white-space: pre-line;
+}
+
+.bigPicture {
+    float: right;
+}

@@ -1,0 +1,21 @@
+.coffeeRow {
+    margin-top: 15px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.moviesListCard {
+    width: 18rem;
+}
+
+div.poster {
+    margin: 10px;
+}
+
+.smallPoster {
+    user-select: none;
+    width: 18rem;
+    height: 20rem;
+}

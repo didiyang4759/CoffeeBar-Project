@@ -1,0 +1,28 @@
+.prompText {
+    position: absolute;
+    top: 200px;
+}
+
+.receipt {
+    background-color: white;
+    width: 900px;
+    height: auto;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    background-position: center;
+}
+
+.titleStyle {
+    font-family: Georgia, verdana, sans-serif;
+    font-size: 60px;
+    color: rgb(247, 162, 17);
+    font-style: italic;
+}
+
+.textStyle {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    position: absolute;
+    top: 800px;
+}
